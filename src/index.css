@@ -1,0 +1,26 @@
+/* Reset some defaults */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #1e293b;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1e293b;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #90caf9;
+  border-radius: 4px;
+}
+
+/* Remove focus outline on buttons (optional) */
+button:focus {
+  outline: none;
+}

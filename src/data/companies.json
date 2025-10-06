@@ -1,0 +1,461 @@
+[
+ {
+  "id": 1,
+  "name": "Apple",
+  "location": "Cupertino, California",
+  "industry": "Technology",
+  "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories.",
+  "logo": "https://logo.clearbit.com/apple.com",
+  "website": "https://www.apple.com"
+},
+  {
+    "id": 2,
+    "name": "HDFC Bank",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Banking & Financial Services",
+    "description": "One of India's leading private sector banks offering a wide range of financial products and services.",
+    "logo": "https://logo.clearbit.com/hdfcbank.com",
+    "website": "https://www.hdfcbank.com"
+  },
+  {
+    "id": 3,
+    "name": "Tata Consultancy Services",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Information Technology",
+    "description": "A global IT services and consulting company providing technology solutions to businesses worldwide.",
+    "logo": "https://logo.clearbit.com/tcs.com",
+    "website": "https://www.tcs.com"
+  },
+  {
+    "id": 4,
+    "name": "Infosys",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Information Technology",
+    "description": "A multinational corporation providing IT consulting and services, including software development.",
+    "logo": "https://logo.clearbit.com/infosys.com",
+    "website": "https://www.infosys.com"
+  },
+  {
+    "id": 5,
+    "name": "ICICI Bank",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Banking & Financial Services",
+    "description": "A leading private sector bank offering a wide range of banking products and services.",
+    "logo": "https://logo.clearbit.com/icicibank.com",
+    "website": "https://www.icicibank.com"
+  },
+  {
+    "id": 6,
+    "name": "Bharti Airtel",
+    "location": "Gurugram, Haryana",
+    "industry": "Telecommunications",
+    "description": "A global telecommunications company providing mobile, broadband, and digital TV services.",
+    "logo": "https://logo.clearbit.com/airtel.in",
+    "website": "https://www.airtel.in"
+  },
+  {
+    "id": 7,
+    "name": "State Bank of India",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Banking & Financial Services",
+    "description": "The largest public sector bank in India offering a wide range of banking products and services.",
+    "logo": "https://logo.clearbit.com/sbi.co.in",
+    "website": "https://www.sbi.co.in"
+  },
+  {
+    "id": 8,
+    "name": "Larsen & Toubro",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Engineering & Construction",
+    "description": "An Indian multinational engaged in technology, engineering, construction, manufacturing, and financial services.",
+    "logo": "https://logo.clearbit.com/larsentoubro.com",
+    "website": "https://www.larsentoubro.com"
+  },
+  {
+    "id": 9,
+    "name": "Mahindra & Mahindra",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Automotive & Agriculture",
+    "description": "A multinational conglomerate with interests in automotive, agriculture, aerospace, and IT.",
+    "logo": "https://logo.clearbit.com/mahindra.com",
+    "website": "https://www.mahindra.com"
+  },
+  {
+    "id": 10,
+    "name": "Maruti Suzuki India",
+    "location": "Gurugram, Haryana",
+    "industry": "Automotive",
+    "description": "India's largest car manufacturer offering a wide range of vehicles.",
+    "logo": "https://logo.clearbit.com/marutisuzuki.com",
+    "website": "https://www.marutisuzuki.com"
+  },
+  {
+    "id": 11,
+    "name": "Adani Enterprises",
+    "location": "Ahmedabad, Gujarat",
+    "industry": "Conglomerate",
+    "description": "A diversified conglomerate with interests in ports, logistics, agribusiness, power, and other sectors.",
+    "logo": "https://logo.clearbit.com/adani.com",
+    "website": "https://www.adani.com"
+  },
+  {
+    "id": 12,
+    "name": "Bajaj Auto",
+    "location": "Pune, Maharashtra",
+    "industry": "Automotive",
+    "description": "A leading manufacturer of motorcycles and three-wheelers.",
+    "logo": "https://logo.clearbit.com/bajajauto.com",
+    "website": "https://www.bajajauto.com"
+  },
+  {
+    "id": 13,
+    "name": "Hindustan Unilever",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Consumer Goods",
+    "description": "A global company offering a wide range of consumer goods including food, beverages, cleaning agents, and personal care.",
+    "logo": "https://logo.clearbit.com/hul.co.in",
+    "website": "https://www.hul.co.in"
+  },
+  {
+    "id": 14,
+    "name": "ITC Limited",
+    "location": "Kolkata, West Bengal",
+    "industry": "Conglomerate",
+    "description": "An Indian multinational with diversified businesses including FMCG, hotels, paperboards, and packaging.",
+    "logo": "https://logo.clearbit.com/itcportal.com",
+    "website": "https://www.itcportal.com"
+  },
+  {
+    "id": 15,
+    "name": "Tata Steel",
+    "location": "Jamshedpur, Jharkhand",
+    "industry": "Steel Manufacturing",
+    "description": "A leading steel manufacturing company with operations in India and abroad.",
+    "logo": "https://logo.clearbit.com/tatasteel.com",
+    "website": "https://www.tatasteel.com"
+  },
+  {
+    "id": 16,
+    "name": "Wipro",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Information Technology",
+    "description": "A global information technology, consulting, and business process services company.",
+    "logo": "https://logo.clearbit.com/wipro.com",
+    "website": "https://www.wipro.com"
+  },
+  {
+    "id": 17,
+    "name": "UltraTech Cement",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Cement Manufacturing",
+    "description": "The largest manufacturer of grey cement, ready mix concrete, and white cement in India.",
+    "logo": "https://logo.clearbit.com/ultratechcement.com",
+    "website": "https://www.ultratechcement.com"
+  },
+  {
+    "id": 18,
+    "name": "Asian Paints",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Paints & Coatings",
+    "description": "A leading paint company offering a wide range of decorative and industrial coatings.",
+    "logo": "https://logo.clearbit.com/asianpaints.com",
+    "website": "https://www.asianpaints.com"
+  },
+  {
+    "id": 19,
+    "name": "Cipla",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Pharmaceuticals",
+    "description": "A global pharmaceutical company known for its wide range of medicines.",
+    "logo": "https://logo.clearbit.com/cipla.com",
+    "website": "https://www.cipla.com"
+  },
+  {
+    "id": 20,
+    "name": "Dr. Reddy's Laboratories",
+    "location": "Hyderabad, Telangana",
+    "industry": "Pharmaceuticals",
+    "description": "An Indian multinational pharmaceutical company offering a wide range of generic medicines.",
+    "logo": "https://logo.clearbit.com/drreddys.com",
+    "website": "https://www.drreddys.com"
+  },
+  {
+    "id": 21,
+    "name": "Sun Pharmaceutical Industries",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Pharmaceuticals",
+    "description": "A leading global pharmaceutical company offering a wide range of medicines.",
+    "logo": "https://logo.clearbit.com/sunpharma.com",
+    "website": "https://www.sunpharma.com"
+  },
+  {
+    "id": 22,
+    "name": "Tata Motors",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Automotive",
+    "description": "A leading global automobile manufacturer offering a wide range of vehicles.",
+    "logo": "https://logo.clearbit.com/tatamotors.com",
+    "website": "https://www.tatamotors.com"
+  },
+  {
+    "id": 23,
+    "name": "Bharat Petroleum",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Oil & Gas",
+    "description": "A leading oil and gas company offering a wide range of energy products and services.",
+    "logo": "https://logo.clearbit.com/bharatpetroleum.com",
+    "website": "https://www.bharatpetroleum.com"
+  },
+  {
+    "id": 24,
+    "name": "Oil & Natural Gas Corporation",
+    "location": "Dehradun, Uttarakhand",
+    "industry": "Oil & Gas",
+    "description": "India's largest oil and gas exploration and production company.",
+    "logo": "https://logo.clearbit.com/ongcindia.com",
+    "website": "https://www.ongcindia.com"
+  },
+  {
+    "id": 25,
+    "name": "Power Grid Corporation",
+    "location": "Gurugram, Haryana",
+    "industry": "Electricity Transmission",
+    "description": "A public sector company engaged in the transmission of electricity across India.",
+    "logo": "https://logo.clearbit.com/powergridindia.com",
+    "website": "https://www.powergridindia.com"
+  },
+    {
+    "id": 26,
+    "name": "NTPC Limited",
+    "location": "New Delhi, Delhi",
+    "industry": "Power Generation",
+    "description": "India's largest energy conglomerate involved in the generation and sale of electricity.",
+    "logo": "https://logo.clearbit.com/ntpc.co.in",
+    "website": "https://www.ntpc.co.in"
+  },
+  {
+    "id": 27,
+    "name": "Vedanta Limited",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Mining & Metals",
+    "description": "A global natural resources company engaged in zinc, copper, iron ore, aluminum, and oil & gas.",
+    "logo": "https://logo.clearbit.com/vedantalimited.com",
+    "website": "https://www.vedantalimited.com"
+  },
+  {
+    "id": 28,
+    "name": "GAIL (India) Limited",
+    "location": "New Delhi, Delhi",
+    "industry": "Natural Gas",
+    "description": "A state-owned natural gas processing and distribution company in India.",
+    "logo": "https://logo.clearbit.com/gailonline.com",
+    "website": "https://www.gailonline.com"
+  },
+  {
+    "id": 29,
+    "name": "Grasim Industries",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Cement & Textiles",
+    "description": "Part of the Aditya Birla Group, engaged in cement, textiles, and chemicals.",
+    "logo": "https://logo.clearbit.com/grasim.com",
+    "website": "https://www.grasim.com"
+  },
+  {
+    "id": 30,
+    "name": "Axis Bank",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Banking & Financial Services",
+    "description": "A leading private sector bank providing a wide range of financial services in India.",
+    "logo": "https://logo.clearbit.com/axisbank.com",
+    "website": "https://www.axisbank.com"
+  },
+  {
+    "id": 31,
+    "name": "Kotak Mahindra Bank",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Banking & Financial Services",
+    "description": "A major private sector bank in India providing comprehensive banking solutions.",
+    "logo": "https://logo.clearbit.com/kotak.com",
+    "website": "https://www.kotak.com"
+  },
+  {
+    "id": 32,
+    "name": "HCL Technologies",
+    "location": "Noida, Uttar Pradesh",
+    "industry": "Information Technology",
+    "description": "A leading global IT services company providing software development and consulting services.",
+    "logo": "https://logo.clearbit.com/hcltech.com",
+    "website": "https://www.hcltech.com"
+  },
+  {
+    "id": 33,
+    "name": "Marico",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Consumer Goods",
+    "description": "An Indian consumer goods company focused on beauty and wellness products.",
+    "logo": "https://logo.clearbit.com/marico.com",
+    "website": "https://www.marico.com"
+  },
+  {
+    "id": 34,
+    "name": "Nestlé India",
+    "location": "Gurugram, Haryana",
+    "industry": "Food & Beverages",
+    "description": "A subsidiary of Nestlé S.A., manufacturing food and beverage products in India.",
+    "logo": "https://logo.clearbit.com/nestle.in",
+    "website": "https://www.nestle.in"
+  },
+  {
+    "id": 35,
+    "name": "Asian Paints",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Paints & Coatings",
+    "description": "India's leading paint company offering decorative and industrial coatings.",
+    "logo": "https://logo.clearbit.com/asianpaints.com",
+    "website": "https://www.asianpaints.com"
+  },
+  {
+    "id": 36,
+    "name": "Godrej Consumer Products",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Consumer Goods",
+    "description": "A major Indian company in personal care and household products.",
+    "logo": "https://logo.clearbit.com/godrejcp.com",
+    "website": "https://www.godrejcp.com"
+  },
+  {
+    "id": 37,
+    "name": "BHEL (Bharat Heavy Electricals Ltd.)",
+    "location": "New Delhi, Delhi",
+    "industry": "Engineering & Power",
+    "description": "A government-owned engineering and manufacturing company for power plants and industrial equipment.",
+    "logo": "https://logo.clearbit.com/bhel.com",
+    "website": "https://www.bhel.com"
+  },
+  {
+    "id": 38,
+    "name": "Punjab National Bank",
+    "location": "New Delhi, Delhi",
+    "industry": "Banking & Financial Services",
+    "description": "One of India's largest public sector banks offering a wide range of banking services.",
+    "logo": "https://logo.clearbit.com/pnbindia.in",
+    "website": "https://www.pnbindia.in"
+  },
+  {
+    "id": 39,
+    "name": "Mahindra Electric",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Automotive & Electric Vehicles",
+    "description": "A subsidiary of Mahindra Group focused on electric mobility solutions.",
+    "logo": "https://logo.clearbit.com/mahindraelectric.com",
+    "website": "https://www.mahindraelectric.com"
+  },
+  {
+    "id": 40,
+    "name": "Tech Mahindra",
+    "location": "Pune, Maharashtra",
+    "industry": "Information Technology",
+    "description": "A multinational IT services company providing IT and business process outsourcing solutions.",
+    "logo": "https://logo.clearbit.com/techmahindra.com",
+    "website": "https://www.techmahindra.com"
+  },
+  {
+    "id": 41,
+    "name": "Axis Bank",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Banking & Financial Services",
+    "description": "A major private sector bank providing comprehensive banking and financial services.",
+    "logo": "https://logo.clearbit.com/axisbank.com",
+    "website": "https://www.axisbank.com"
+  },
+  {
+    "id": 42,
+    "name": "Dr. Lal PathLabs",
+    "location": "New Delhi, Delhi",
+    "industry": "Healthcare & Diagnostics",
+    "description": "A leading diagnostic and healthcare service provider in India.",
+    "logo": "https://logo.clearbit.com/lalpathlabs.com",
+    "website": "https://www.lalpathlabs.com"
+  },
+  {
+    "id": 43,
+    "name": "Apollo Hospitals",
+    "location": "Chennai, Tamil Nadu",
+    "industry": "Healthcare",
+    "description": "One of India's largest healthcare providers with hospitals across the country.",
+    "logo": "https://logo.clearbit.com/apollohospitals.com",
+    "website": "https://www.apollohospitals.com"
+  },
+  {
+    "id": 44,
+    "name": "Pidilite Industries",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Chemicals & Adhesives",
+    "description": "An Indian company known for adhesives, sealants, construction chemicals, and art materials.",
+    "logo": "https://logo.clearbit.com/pidilite.com",
+    "website": "https://www.pidilite.com"
+  },
+  {
+    "id": 45,
+    "name": "Asian Paints",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Paints & Coatings",
+    "description": "Leading manufacturer of paints and coatings in India.",
+    "logo": "https://logo.clearbit.com/asianpaints.com",
+    "website": "https://www.asianpaints.com"
+  },
+  {
+    "id": 46,
+    "name": "Tata Power",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Power & Energy",
+    "description": "An Indian electric utility company involved in generation, transmission, and distribution of electricity.",
+    "logo": "https://logo.clearbit.com/tatapower.com",
+    "website": "https://www.tatapower.com"
+  },
+  {
+    "id": 47,
+    "name": "JSW Steel",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Steel Manufacturing",
+    "description": "A leading integrated steel manufacturer in India with global operations.",
+    "logo": "https://logo.clearbit.com/jsw.in",
+    "website": "https://www.jsw.in"
+  },
+  {
+    "id": 48,
+    "name": "ICICI Lombard",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Insurance",
+    "description": "A leading general insurance company providing a wide range of insurance products in India.",
+    "logo": "https://logo.clearbit.com/icicilombard.com",
+    "website": "https://www.icicilombard.com"
+  },
+  {
+    "id": 49,
+    "name": "LIC (Life Insurance Corporation of India)",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Insurance",
+    "description": "India's largest life insurance company providing a range of life insurance products.",
+    "logo": "https://logo.clearbit.com/licindia.in",
+    "website": "https://www.licindia.in"
+  },
+  {
+    "id": 50,
+    "name": "Jubilant FoodWorks",
+    "location": "Noida, Uttar Pradesh",
+    "industry": "Food & Beverages",
+    "description": "A company managing brands like Domino's Pizza and Dunkin’ Donuts in India.",
+    "logo": "https://logo.clearbit.com/jubilantfoodworks.com",
+    "website": "https://www.jubilantfoodworks.com"
+  },
+  {
+    "id": 51,
+    "name": "Blue Dart Express",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Logistics & Courier",
+    "description": "A leading logistics company specializing in courier and express delivery services.",
+    "logo": "https://logo.clearbit.com/bluedart.com",
+    "website": "https://www.bluedart.com"
+  }
+]
