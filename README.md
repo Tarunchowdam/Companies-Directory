@@ -58,7 +58,7 @@ It displays a list of companies with their logos, industries, locations, and lin
 
 
 4. Open in Browser:
-
+```
    http://localhost:5173
 
 
