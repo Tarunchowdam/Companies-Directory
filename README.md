@@ -1,11 +1,11 @@
 
-## 🏢 Companies Directory – React + MUI
+## Companies Directory – React + MUI
 
 A responsive **Companies Directory Web App** built using **React.js** and **Material UI (MUI)**.  
 It displays a list of companies with their logos, industries, locations, and links, along with powerful search and filter options.
 
 
-## 🚀 Features
+## Features
 
 - 🔍 **Search Functionality** – Instantly search companies by name  
 - 🏙️ **Filter Options** – Filter by location and industry  
@@ -16,7 +16,7 @@ It displays a list of companies with their logos, industries, locations, and lin
 - ⚡ **Local Data** – Uses `companies.json` for easy testing and updates  
 
 
-## 🧩 Project Structure
+##  Project Structure
 
 ```
 
@@ -38,13 +38,12 @@ It displays a list of companies with their logos, industries, locations, and lin
 ````
 
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/companies-directory.git
    cd companies-directory
-````
 
 2. **Install Dependencies**
 
@@ -56,16 +55,14 @@ It displays a list of companies with their logos, industries, locations, and lin
 
    ```bash
    npm run dev
-   ```
+
 
 4. Open in Browser:
 
-   ```
    http://localhost:5173
-   ```
 
 
-## 🧠 Code Walkthrough
+##  Code Walkthrough
 
 The main component `CompanyList.jsx` handles **searching**, **filtering**, **sorting**, and **pagination**.
 Company details are stored in `companies.json` and displayed via the `CompanyCard` component, styled using MUI’s `Card`, `Typography`, and `Button`.
@@ -82,7 +79,6 @@ The app uses **MUI Grid** for responsive layout—showing 4 cards per row on des
 | Tablet      | 2             | Compact layout with adjusted padding |
 | Mobile      | 1             | Single column with stacked cards     |
 
----
 
 ## 📚 Technologies Used
 
