@@ -58,7 +58,7 @@ It displays a list of companies with their logos, industries, locations, and lin
 
 
 4. Open in Browser:
-```
+
    http://localhost:5173
 
 
@@ -71,7 +71,7 @@ When no results match, a visually centered message (“No companies found 😔�
 The app uses **MUI Grid** for responsive layout—showing 4 cards per row on desktop, 2 on tablets, and 1 on mobile—ensuring a consistent user experience across devices.
 
 
-## 🖥️ Responsive Design
+##  Responsive Design
 
 | Device Type | Cards per Row | Layout Behavior                      |
 | ----------- | ------------- | ------------------------------------ |
@@ -80,11 +80,10 @@ The app uses **MUI Grid** for responsive layout—showing 4 cards per row on des
 | Mobile      | 1             | Single column with stacked cards     |
 
 
-## 📚 Technologies Used
+##  Technologies Used
 
 * **React.js** – Frontend framework
 * **Material UI (MUI)** – UI components and layout
 * **Vite** – Development and build tool
 * **JSON** – Local data storage
----
 
